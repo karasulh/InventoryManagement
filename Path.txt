@@ -1,0 +1,23 @@
+Path
+---
+1- Category parent class design  
+2- Product parent class design
+3- 
+4-
+5-
+
+Intents
+---
+-Category addition
+-Product addition
+-Product filter
+-Category filter
+-User login
+-User signup
+-Order an product
+-Add product to card
+-Admin page
+-User page
+-Product price compare
+-Comment for product
+
